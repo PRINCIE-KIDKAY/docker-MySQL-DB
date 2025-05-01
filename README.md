@@ -1,6 +1,6 @@
 # docker-MySQL-DB
 
-This project provides a simple `docker-compose` setup for running a PostgreSQL database with Adminer (a lightweight database management tool).
+This project provides a simple `docker-compose` setup for running a MySQL database with Adminer (a lightweight database management tool).
 
 ## 📦 Requirements
 

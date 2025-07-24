@@ -30,14 +30,6 @@ This project provides a simple `docker-compose` setup for running a MySQL databa
 # Access the services
 - Adminer UI: Open your browser and go to `http://localhost:8181`
 
-# Adminer login details:
-- System: Mysql
-- Server: db (or localhost if connecting from host)
-
-- Username: root
-- Password: 123456
-- Database: mydb
-
 # Stop the containers
 
 `docker-compose down`

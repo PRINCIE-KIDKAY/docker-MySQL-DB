@@ -25,11 +25,5 @@ services:
     depends_on:
       - db
 
-  adminer:
-    image: adminer
-    restart: always
-    ports:
-      - "8181:8080"  # Adminer exposed on host:8181
-
 volumes:
   mysqldata:
